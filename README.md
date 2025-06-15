@@ -23,9 +23,11 @@ Welcome to the **Intro To Machine Learning Workshop**! This session introduces t
 
 ### 🔹 Key ML Algorithms  
 - **Linear Regression**  
-- **Decision Trees**  
+- **Logistic Regression**  
 - **K-Nearest Neighbors**  
-- **Support Vector Machines**
+- **K Means**  
+- **Decision Trees**
+- **Clustering**
 
 ### 🔹 Practical Applications  
 - AI in daily life  
